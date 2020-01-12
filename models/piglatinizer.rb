@@ -1,6 +1,6 @@
 class PigLatinizer
 
-  attr_accessor :user_input_text, :words, :piglatinized
+  attr_accessor :user_input_text, :words #, :piglatinized
 
   def piglatinize(user_input_text)
 
